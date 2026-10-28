@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Gopi 👋
 
-<!--
-**CHgopi07/CHgopi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Generative AI Engineer & SDE** focused on LLM Orchestration, Autonomous Multi-Agent Systems, and RAG Architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & AI Ecosystem
+
+**Gen AI & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Backend & Databases:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Infrastructure:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🧠 Core Focus Areas
+- 🔍 **Retrieval-Augmented Generation (RAG):** Building hybrid vector retrieval pipelines for enterprise datasets.
+- 🤖 **Multi-Agent Systems:** Developing autonomous agent workflows with real-time tool orchestration (MQTT/APIs) and state memory.
+- ⚙️ **Production AI Engineering:** Wrapping AI models into low-latency REST microservices with strict schema validation.
+
+---
+
+### 📊 GitHub Activity
+
+![Gopi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHgopi07&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHgopi07&layout=compact&theme=dark)
