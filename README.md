@@ -41,10 +41,11 @@
 
 ### 📜 Certifications & Credentials
 
-![MongoDB Associate Developer](https://img.shields.io/badge/MongoDB-Associate_Developer_Certified-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MongoDB Associate Developer](https://www.credly.com/badges/8f03dcb5-278b-4b6c-8d42-756c1bde1ec3/public_url)  
 - **MongoDB Associate Developer** | *MongoDB Certified Professional*
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![AWS Certified](https://www.credly.com/badges/9078f59f-8064-45e4-80cc-b75230fa4e0a/public_url) 
+                (https://www.credly.com/badges/c55b74a3-2921-4f48-bf22-c53c77286087/public_url)
 - **AWS Certified Developer – Associate / Cloud Practitioner** | *Amazon Web Services*
 
 ---
