@@ -36,3 +36,15 @@
 
 ![Gopi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHgopi07&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHgopi07&layout=compact&theme=dark)
+
+---
+
+### 📜 Certifications & Credentials
+
+![MongoDB Associate Developer](https://img.shields.io/badge/MongoDB-Associate_Developer_Certified-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+- **MongoDB Associate Developer** | *MongoDB Certified Professional*
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+- **AWS Certified Developer – Associate / Cloud Practitioner** | *Amazon Web Services*
+
+---
